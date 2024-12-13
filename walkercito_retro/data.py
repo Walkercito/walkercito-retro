@@ -5,7 +5,7 @@ import requests
 import time
 import os
 
-BOT_TOKEN = 'MTIwODE2MjU1ODM4NTg1MjQyNg.GqVIBR.74HgSYq9S5VzOQvUdIuuNAXRg-olZmp0RsidrE'
+BOT_TOKEN = 'discord token'
 USER_ID = '457318022357712906'
 AVATAR_UPDATE_INTERVAL = 604800  # 1 week in seconds
 
